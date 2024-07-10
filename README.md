@@ -24,7 +24,8 @@
   </a><br>
   <img src="https://komarev.com/ghpvc/?username=freedom-1&label=PROFILNI+KO'RISHLAR+SONI" alt=""/>
 </div>
-:hammer_and_wrench: Languages and Tools :
+:hammer_and_wrench: Men bilgan dastular va dasturlash tillari:
+<br><br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -42,7 +43,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
@@ -61,13 +61,6 @@
   
  </div>
  
-<div align="center"> 
-  <a href="mailto:pedro.sales.jasurh471@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-</div>
-
-
 <hr/>
 
 <h2 align="center">⚡️ Statistika ⚡️</h2>
