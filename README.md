@@ -43,19 +43,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
-
-
-
-
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salom+do'stlar!+👋👋👋;+Men+Jasur+Hasanov+bo'laman!;" />
 </h1>
 
-<h3 align="center">O'zbekistonlik tinchimas dasturchi</h3>
+<h3 align="center">O'zbekistonlik tinib-tinchimas dasturchi</h3>
 
 <br/>
 
