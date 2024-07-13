@@ -21,11 +21,8 @@
   </a>
   <a href="https://x.com/Jasur_2004">
     <img src="https://img.shields.io/badge/twitter-black?logo=x&logoColor=white" alt="Bu twitter badges"/>
-  </a><br>
-  <img src="https://komarev.com/ghpvc/?username=freedom-1&label=PROFILNI+KO'RISHLAR+SONI" alt=""/>
-</div>
-:hammer_and_wrench: Men bilgan dastular va dasturlash tillari:
-<br><br>
+  </a><br><br><br>
+ 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -49,7 +46,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salom+do'stlar!+👋👋👋;+Men+Jasur+Hasanov+bo'laman!;" />
 </h1>
 
-<h3 align="center">O'zbekistonlik tinib-tinchimas dasturchi</h3>
+
 
 <br/>
 
@@ -57,7 +54,7 @@
  
   Hozirda Universitetda IT bo'yicha ta'lim olmoqdaman. C# dasturlash tilida ishlay olaman.
  
-  Men hozirda Docker, Supabase, AWS dasturlarini o'rganyapman.
+
   
  </div>
  
